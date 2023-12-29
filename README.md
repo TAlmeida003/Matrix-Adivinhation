@@ -40,12 +40,44 @@ A interface de interação do usuário é feita através do prompt de comando (C
 
 ## Funcionamento do sistema para exportar o menu principal:
 
+<div align="center">
+  <img src="Imagens/menu-principal.png" width="500" />
+</div>
+<p align="center"><strong>Tela de menu principal</strong></p>
 
 ## Funcionamento do sistema para registrar uma nova partida:
 
+<div align="center">
+  <img src="Imagens/criar-tabuleiro-nivel.png" width="500" />
+</div>
+<p align="center"><strong>Tela de escolha de nivel</strong></p>
+
+<div align="center">
+  <img src="Imagens/criar-tabuleiro-numero-de-tabuleiros.png" width="500" />
+</div>
+<p align="center"><strong>Tela de escolha de número de tabuleiros</strong></p>
+
+<div align="center">
+  <img src="Imagens/criar-tabuleiro-numero-de-rodadas.png" width="500" />
+</div>
+<p align="center"><strong>Tela de escolha de número de rodadas</strong></p>
 
 ## Funcionamento do sistema para os 3 modos de jogo:
 
+<div align="center">
+  <img src="Imagens/nivel-facil-jogo.png" width="500" />
+</div>
+<p align="center"><strong>Tela de uma rodada do jogo em modo fácil</strong></p>
+
+<div align="center">
+  <img src="Imagens/nivel-medio-jogo.png" width="500" />
+</div>
+<p align="center"><strong>Tela de uma rodada do jogo em modo medio</strong></p>
+
+<div align="center">
+  <img src="Imagens/nivel-medio-jogo.png" width="500" />
+</div>
+<p align="center"><strong>Tela de uma rodada do jogo em modo difícil</strong></p>
 
 # 💻 Tecnologias Utilizadas
 
