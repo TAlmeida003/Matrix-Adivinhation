@@ -1,12 +1,14 @@
 <h1 align="center">
-  🧩 Matrix Adivinhation
+  🧩 
+
+Matrix Adivinhation
 </h1>
 
 # 📜 Descrição do Projeto
 
 O "Jogo das Somas Esquecidas" é um jogo de tabuleiro, inspirado no desafio enfrentado por Neo em sua busca por inteligência real. O jogo pode ser disputado entre dois jogadores, Jogador 1 e Jogador 2, utilizando um ou dois tabuleiros, dependendo da preferência. Existem três níveis de dificuldade: Fácil, Médio e Difícil, cada um com dimensões de tabuleiro diferentes. Os tabuleiros são preenchidos com números aleatórios que não se repetem no mesmo tabuleiro, e os jogadores tentam adivinhar o valor das somas de linhas ou colunas ocultas para ganhar casas no tabuleiro.
 
-# ⚙️ Regras do Jogo
+# 📖 Regras do Jogo
 
 ## Níveis de Dificuldade
 
@@ -32,6 +34,19 @@ Uma partida pode ser encerrada de duas maneiras:
   - Se o valor chutado for igual à soma, todas as casas da linha ou coluna escolhida são reveladas.
 - O jogador com mais casas reveladas quando a partida terminar será o vencedor.
 
+# ⚙️ Demonstração da Aplicação
+
+A interface de interação do usuário é feita através do prompt de comando (CMD).
+
+## Funcionamento do sistema para exportar o menu principal:
+
+
+## Funcionamento do sistema para registrar uma nova partida:
+
+
+## Funcionamento do sistema para os 3 modos de jogo:
+
+
 # 💻 Tecnologias Utilizadas
 
 * Linguagem de programação: Python
@@ -39,7 +54,7 @@ Uma partida pode ser encerrada de duas maneiras:
 
 # 👤 Contribuidores
 
-  Thiago Neri dos Santos Almeida
+<li><a href="https://github.com/TAlmeida003">Thiago Neri dos Santos Almeida</a></li>
 
 # 📚 Referências
 
